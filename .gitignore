@@ -1,0 +1,11 @@
+target
+test-output
+output
+Log4j
+rerun
+target/cucumber.json
+/.apt_generated/
+/.apt_generated_tests/
+Log4j/log4j-application.log
+target/cucumber.json
+target/site/cucumber-pretty/report.js
