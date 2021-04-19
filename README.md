@@ -1,4 +1,4 @@
-Android Automation - OkCredit
+Android Automation - UI
 
 Appium-cucumber-java-maven
 =================
